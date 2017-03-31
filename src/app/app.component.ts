@@ -1,6 +1,6 @@
 import {Component} from "@angular/core";
 
-import "snapsvg";
+import "snapsvg-cjs";
 declare var Snap: any;
 
 @Component({
