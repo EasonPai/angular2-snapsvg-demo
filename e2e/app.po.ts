@@ -1,4 +1,6 @@
-export class Angular2SnapsvgDemoPage {
+import { browser, element, by } from 'protractor';
+
+export class Angular2V1SnapsvgDemoPage {
   navigateTo() {
     return browser.get('/');
   }
